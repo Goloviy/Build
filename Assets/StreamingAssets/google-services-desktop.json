@@ -1,0 +1,31 @@
+{
+  "project_info": {
+    "project_number": "50459211549",
+    "project_id": "endurance-clash-de745",
+    "storage_bucket": "endurance-clash-de745.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50459211549:ios:b15626936c4a72ec8dd3f4",
+        "android_client_info": {
+          "package_name": "com.kg187.endurance.clash"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhAd0NsrYqyeHEwHVoxXpmM-yAXuLQe8s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
